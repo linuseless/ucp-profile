@@ -1,0 +1,8 @@
+{
+  "ucp": {
+    "version": "2026-08-25",
+    "services": {},
+    "capabilities": {}
+  },
+  "agent": { "name": "swagbot-probe", "version": "1.0" }
+}
